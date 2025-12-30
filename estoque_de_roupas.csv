@@ -1,0 +1,9 @@
+ID,Produto,Categoria,Tamanho,Cor,Quantidade em Estoque,Preço de Custo,Preço de Venda,Data da Última Venda
+1,Camiseta Básica,Masculino,M,Preto,25,25.00,49.90,2025-12-20
+2,Calça Jeans Skinny,Feminino,38,Azul,15,70.00,139.90,2025-12-18
+3,Jaqueta Jeans,Unissex,G,Azul Claro,8,120.00,249.90,2025-12-15
+4,Saia Midi,Feminino,M,Vermelho,12,55.00,109.90,2025-12-22
+5,Bermuda Sarja,Masculino,42,Bege,20,40.00,89.90,2025-12-19
+6,Blusa de Tricô,Feminino,P,Branco,10,60.00,129.90,2025-12-21
+7,Moletom Canguru,Unissex,G,Cinza,14,75.00,159.90,2025-12-17
+8,Short Jeans,Feminino,36,Azul Escuro,18,35.00,79.90,2025-12-23
