@@ -1,0 +1,1 @@
+Estive desenvolvendo esse projeto usando os conhecimentos adquiridos no curso, nel usamos uma API da OpenAI, uma ETL e Python, trabalhamos usando a biblioteca Pandas e arquivos CSV de uma tabela de estoque de roupas criada para este projeto onde usamos uma mensagem criar pelo chatGPT parar nossos clientes.
